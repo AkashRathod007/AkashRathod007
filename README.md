@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkashRathod
+- 👋 Hi, I’m @Akash Rathod
 - 👀 I’m interested in Artificial intelligence and machine learning 
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on machine learning and data analysis 
